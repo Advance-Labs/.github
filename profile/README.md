@@ -25,7 +25,7 @@
 
 <!-- ░░░ TYPING TAGLINE ░░░ -->
 <p align="center">
-  <a href="https://www.advancelabs.ca">
+  <a href="https://www.advancelabs.dev">
     <img
       src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=720&lines=A+studio+building+ambitious+software.;Creator+tools.+Commerce+automation.+AI+search.;Two+brothers.+One+relentless+roadmap." alt="Typing tagline" />
   </a>
@@ -33,7 +33,7 @@
 
 <!-- ░░░ SOCIAL / STATUS BADGES ░░░ -->
 <p align="center">
-  <a href="https://www.advancelabs.ca"><img src="https://img.shields.io/badge/Website-advancelabs.ca-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F0F1E" alt="Website" /></a>
+  <a href="https://www.advancelabs.dev"><img src="https://img.shields.io/badge/Website-advancelabs.dev-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F0F1E" alt="Website" /></a>
   <a href="https://github.com/Advance-Labs"><img src="https://img.shields.io/badge/Org-Advance--Labs-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=0F0F1E" alt="GitHub Org" /></a>
   <a href="https://www.linkedin.com/company/advance-labs"><img src="https://img.shields.io/badge/LinkedIn-Advance%20Labs-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F0F1E" alt="LinkedIn" /></a>
   <img src="https://img.shields.io/badge/Status-Shipping%20Daily-10B981?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0F0F1E" alt="Status" />
@@ -95,13 +95,14 @@ run in production, and earn their keep.
       <a href="https://www.cartrix.live"><img src="https://img.shields.io/badge/Live-cartrix.live-10B981?style=flat-square&labelColor=0F0F1E" alt="Live" /></a>
     </td>
     <td width="33%" valign="top" align="center">
-      <a href="https://github.com/Advance-Labs">
+      <a href="https://github.com/Advance-Labs/aeo-toolkit">
         <img src="https://img.shields.io/badge/-%F0%9F%A4%96-7C3AED?style=flat-square&labelColor=0F0F1E" height="56" alt="AEO Toolkit" /><br />
         <h3>🤖 AEO Toolkit</h3>
       </a>
       <p><strong>Get found by AI.</strong><br/>
-      An Answer-Engine-Optimization toolkit — a 9-tool monorepo that audits and
+      Open-source 9-tool suite for AI search optimization (AEO/GEO) — audits and
       tunes sites to be cited by ChatGPT, Perplexity &amp; friends.</p>
+      <a href="https://github.com/Advance-Labs/aeo-toolkit"><img src="https://img.shields.io/badge/Open%20Source-aeo--toolkit-7C3AED?style=flat-square&logo=github&logoColor=white&labelColor=0F0F1E" alt="Open Source" /></a>
       <img src="https://img.shields.io/badge/Status-In%20Development-F59E0B?style=flat-square&labelColor=0F0F1E" alt="In Development" />
     </td>
   </tr>
@@ -206,7 +207,7 @@ run in production, and earn their keep.
 
 We're always up for an interesting problem, a partnership, or a hello.
 
-<a href="https://www.advancelabs.ca"><img src="https://img.shields.io/badge/Get_in_touch-advancelabs.ca-7C3AED?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=0F0F1E" alt="Get in touch" /></a>
+<a href="https://www.advancelabs.dev"><img src="https://img.shields.io/badge/Get_in_touch-advancelabs.dev-7C3AED?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=0F0F1E" alt="Get in touch" /></a>
 <a href="https://www.linkedin.com/company/advance-labs"><img src="https://img.shields.io/badge/Follow_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F0F1E" alt="LinkedIn" /></a>
 
 <br /><br />
