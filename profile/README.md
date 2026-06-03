@@ -2,7 +2,7 @@
   Advance Labs Inc. — GitHub Organization Profile
   Location: this file belongs in the `Advance-Labs/.github` repository at `profile/README.md`.
   Brand: violet #7C3AED on near-black #0F0F1E · mono / technical aesthetic.
-  Swap the two founder GitHub usernames where marked TODO once confirmed.
+  Founder avatars use ui-avatars monograms; swap to GitHub avatars if handles are confirmed.
 -->
 
 <a name="top"></a>
@@ -127,24 +127,22 @@ run in production, and earn their keep.
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <!-- TODO: replace `matthewkrawczak` with Matthew's real GitHub handle -->
-      <a href="https://github.com/matthewkrawczak">
-        <img src="https://github.com/matthewkrawczak.png" width="140" height="140" style="border-radius:50%" alt="Matthew Krawczak" /><br />
+      <a href="mailto:matthew@advancelabs.dev">
+        <img src="https://ui-avatars.com/api/?name=Matthew+Krawczak&size=280&background=7C3AED&color=ffffff&bold=true&rounded=true&format=png" width="140" height="140" alt="Matthew Krawczak" /><br />
         <h3>Matthew Krawczak</h3>
       </a>
       <p><strong>Co-Founder</strong></p>
       <p><em>Product · Engineering · Growth</em></p>
-      <a href="https://github.com/matthewkrawczak"><img src="https://img.shields.io/badge/GitHub-matthewkrawczak-7C3AED?style=flat-square&logo=github&logoColor=white&labelColor=0F0F1E" alt="Matthew GitHub" /></a>
+      <a href="mailto:matthew@advancelabs.dev"><img src="https://img.shields.io/badge/Email-matthew@advancelabs.dev-7C3AED?style=flat-square&logo=maildotru&logoColor=white&labelColor=0F0F1E" alt="Email Matthew" /></a>
     </td>
     <td align="center" width="50%">
-      <!-- TODO: replace `lucaskrawczak` with Lucas's real GitHub handle -->
-      <a href="https://github.com/lucaskrawczak">
-        <img src="https://github.com/lucaskrawczak.png" width="140" height="140" style="border-radius:50%" alt="Lucas Krawczak" /><br />
+      <a href="mailto:lucas@advancelabs.dev">
+        <img src="https://ui-avatars.com/api/?name=Lucas+Krawczak&size=280&background=6D28D9&color=ffffff&bold=true&rounded=true&format=png" width="140" height="140" alt="Lucas Krawczak" /><br />
         <h3>Lucas Krawczak</h3>
       </a>
       <p><strong>Co-Founder</strong></p>
       <p><em>Engineering · Design · Automation</em></p>
-      <a href="https://github.com/lucaskrawczak"><img src="https://img.shields.io/badge/GitHub-lucaskrawczak-7C3AED?style=flat-square&logo=github&logoColor=white&labelColor=0F0F1E" alt="Lucas GitHub" /></a>
+      <a href="mailto:lucas@advancelabs.dev"><img src="https://img.shields.io/badge/Email-lucas@advancelabs.dev-6D28D9?style=flat-square&logo=maildotru&logoColor=white&labelColor=0F0F1E" alt="Email Lucas" /></a>
     </td>
   </tr>
 </table>
