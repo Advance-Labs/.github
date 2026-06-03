@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <strong>We build the software that moves things forward.</strong>
+  <strong>We build shit until it works.</strong>
 </p>
 
 <!-- ░░░ TYPING TAGLINE ░░░ -->
@@ -35,6 +35,7 @@
 <p align="center">
   <a href="https://www.advancelabs.ca"><img src="https://img.shields.io/badge/Website-advancelabs.ca-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F0F1E" alt="Website" /></a>
   <a href="https://github.com/Advance-Labs"><img src="https://img.shields.io/badge/Org-Advance--Labs-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=0F0F1E" alt="GitHub Org" /></a>
+  <a href="https://www.linkedin.com/company/advance-labs"><img src="https://img.shields.io/badge/LinkedIn-Advance%20Labs-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F0F1E" alt="LinkedIn" /></a>
   <img src="https://img.shields.io/badge/Status-Shipping%20Daily-10B981?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0F0F1E" alt="Status" />
   <img src="https://img.shields.io/badge/Based%20in-Canada-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0F0F1E" alt="Canada" />
 </p>
@@ -127,21 +128,23 @@ run in production, and earn their keep.
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <a href="mailto:matthew@advancelabs.dev">
-        <img src="https://ui-avatars.com/api/?name=Matthew+Krawczak&size=280&background=7C3AED&color=ffffff&bold=true&rounded=true&format=png" width="140" height="140" alt="Matthew Krawczak" /><br />
+      <a href="https://github.com/spookylonmuh">
+        <img src="https://github.com/spookylonmuh.png" width="140" height="140" alt="Matthew Krawczak" /><br />
         <h3>Matthew Krawczak</h3>
       </a>
       <p><strong>Co-Founder</strong></p>
       <p><em>Product · Engineering · Growth</em></p>
-      <a href="mailto:matthew@advancelabs.dev"><img src="https://img.shields.io/badge/Email-matthew@advancelabs.dev-7C3AED?style=flat-square&logo=maildotru&logoColor=white&labelColor=0F0F1E" alt="Email Matthew" /></a>
+      <a href="https://github.com/spookylonmuh"><img src="https://img.shields.io/badge/GitHub-spookylonmuh-7C3AED?style=flat-square&logo=github&logoColor=white&labelColor=0F0F1E" alt="Matthew on GitHub" /></a>
+      <a href="mailto:matthew@advancelabs.dev"><img src="https://img.shields.io/badge/Email-matthew@advancelabs.dev-6D28D9?style=flat-square&logo=maildotru&logoColor=white&labelColor=0F0F1E" alt="Email Matthew" /></a>
     </td>
     <td align="center" width="50%">
-      <a href="mailto:lucas@advancelabs.dev">
-        <img src="https://ui-avatars.com/api/?name=Lucas+Krawczak&size=280&background=6D28D9&color=ffffff&bold=true&rounded=true&format=png" width="140" height="140" alt="Lucas Krawczak" /><br />
+      <a href="https://github.com/zordhalo">
+        <img src="https://github.com/zordhalo.png" width="140" height="140" alt="Lucas Krawczak" /><br />
         <h3>Lucas Krawczak</h3>
       </a>
       <p><strong>Co-Founder</strong></p>
       <p><em>Engineering · Design · Automation</em></p>
+      <a href="https://github.com/zordhalo"><img src="https://img.shields.io/badge/GitHub-zordhalo-7C3AED?style=flat-square&logo=github&logoColor=white&labelColor=0F0F1E" alt="Lucas on GitHub" /></a>
       <a href="mailto:lucas@advancelabs.dev"><img src="https://img.shields.io/badge/Email-lucas@advancelabs.dev-6D28D9?style=flat-square&logo=maildotru&logoColor=white&labelColor=0F0F1E" alt="Email Lucas" /></a>
     </td>
   </tr>
@@ -204,6 +207,7 @@ run in production, and earn their keep.
 We're always up for an interesting problem, a partnership, or a hello.
 
 <a href="https://www.advancelabs.ca"><img src="https://img.shields.io/badge/Get_in_touch-advancelabs.ca-7C3AED?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=0F0F1E" alt="Get in touch" /></a>
+<a href="https://www.linkedin.com/company/advance-labs"><img src="https://img.shields.io/badge/Follow_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F0F1E" alt="LinkedIn" /></a>
 
 <br /><br />
 
