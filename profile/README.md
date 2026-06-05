@@ -27,7 +27,7 @@
 <p align="center">
   <a href="https://www.advancelabs.dev">
     <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=720&lines=A+studio+building+ambitious+software.;Creator+tools.+Commerce+automation.+AI+search.;Two+brothers.+One+relentless+roadmap." alt="Typing tagline" />
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=720&lines=A+studio+building+ambitious+software.;Commerce+automation.+AI+search.+Open+source.;Two+brothers.+One+relentless+roadmap." alt="Typing tagline" />
   </a>
 </p>
 
@@ -48,9 +48,9 @@
 ### `// what we do`
 
 **Advance Labs** is a product studio. We design, build, and run a small family of
-software products — from creator tooling to commerce automation to the next
-generation of AI search. No agency busywork, no vaporware. Just products that ship,
-run in production, and earn their keep.
+software products — from commerce automation to the next generation of AI search.
+No agency busywork, no vaporware. Just products that ship, run in production, and
+earn their keep.
 
 </div>
 
@@ -74,17 +74,7 @@ run in production, and earn their keep.
 
 <table align="center">
   <tr>
-    <td width="33%" valign="top" align="center">
-      <a href="https://www.creatin.ca">
-        <img src="https://www.google.com/s2/favicons?domain=creatin.ca&sz=128" width="56" height="56" alt="Creatin" /><br />
-        <h3>✨ Creatin</h3>
-      </a>
-      <p><strong>Where brands meet creators.</strong><br/>
-      A creator platform that pairs brands with the right creators and turns
-      collaboration into a single, simple workflow.</p>
-      <a href="https://www.creatin.ca"><img src="https://img.shields.io/badge/Live-creatin.ca-10B981?style=flat-square&labelColor=0F0F1E" alt="Live" /></a>
-    </td>
-    <td width="33%" valign="top" align="center">
+    <td width="50%" valign="top" align="center">
       <a href="https://www.cartrix.live">
         <img src="https://www.google.com/s2/favicons?domain=cartrix.live&sz=128" width="56" height="56" alt="Cartrix" /><br />
         <h3>🛒 Cartrix</h3>
@@ -94,7 +84,7 @@ run in production, and earn their keep.
       and high-demand drops.</p>
       <a href="https://www.cartrix.live"><img src="https://img.shields.io/badge/Live-cartrix.live-10B981?style=flat-square&labelColor=0F0F1E" alt="Live" /></a>
     </td>
-    <td width="33%" valign="top" align="center">
+    <td width="50%" valign="top" align="center">
       <a href="https://github.com/Advance-Labs/aeo-toolkit">
         <img src="https://img.shields.io/badge/-%F0%9F%A4%96-7C3AED?style=flat-square&labelColor=0F0F1E" height="56" alt="AEO Toolkit" /><br />
         <h3>🤖 AEO Toolkit</h3>
