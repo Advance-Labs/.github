@@ -27,7 +27,7 @@
 <p align="center">
   <a href="https://www.advancelabs.dev">
     <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=720&lines=A+studio+building+ambitious+software.;Commerce+automation.+AI+search.+Open+source.;Two+brothers.+One+relentless+roadmap." alt="Typing tagline" />
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=720&lines=A+studio+building+ambitious+software.;Commerce+automation.+AI+search.+AI+voice+agents.;Founder-led.+One+relentless+roadmap." alt="Typing tagline" />
   </a>
 </p>
 
@@ -120,9 +120,9 @@ earn their keep.
 <!-- ░░░ FOUNDERS ░░░ -->
 <div align="center">
 
-## 👥  The Founders
+## 👤  The Founder
 
-<em>Two brothers building in public.</em>
+<em>Founder-led, building in public.</em>
 
 </div>
 
@@ -130,22 +130,12 @@ earn their keep.
 
 <table align="center">
   <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/spookylonmuh">
-        <img src="https://github.com/spookylonmuh.png" width="140" height="140" alt="Matthew Krawczak" /><br />
-        <h3>Matthew Krawczak</h3>
-      </a>
-      <p><strong>Co-Founder</strong></p>
-      <p><em>Product · Engineering · Growth</em></p>
-      <a href="https://github.com/spookylonmuh"><img src="https://img.shields.io/badge/GitHub-spookylonmuh-7C3AED?style=flat-square&logo=github&logoColor=white&labelColor=0F0F1E" alt="Matthew on GitHub" /></a>
-      <a href="mailto:matthew@advancelabs.dev"><img src="https://img.shields.io/badge/Email-matthew@advancelabs.dev-6D28D9?style=flat-square&logo=maildotru&logoColor=white&labelColor=0F0F1E" alt="Email Matthew" /></a>
-    </td>
-    <td align="center" width="50%">
+    <td align="center">
       <a href="https://github.com/zordhalo">
         <img src="https://github.com/zordhalo.png" width="140" height="140" alt="Lucas Krawczak" /><br />
         <h3>Lucas Krawczak</h3>
       </a>
-      <p><strong>Co-Founder</strong></p>
+      <p><strong>Founder</strong></p>
       <p><em>Engineering · Design · Automation</em></p>
       <a href="https://github.com/zordhalo"><img src="https://img.shields.io/badge/GitHub-zordhalo-7C3AED?style=flat-square&logo=github&logoColor=white&labelColor=0F0F1E" alt="Lucas on GitHub" /></a>
       <a href="mailto:lucas@advancelabs.dev"><img src="https://img.shields.io/badge/Email-lucas@advancelabs.dev-6D28D9?style=flat-square&logo=maildotru&logoColor=white&labelColor=0F0F1E" alt="Email Lucas" /></a>
@@ -190,7 +180,7 @@ earn their keep.
 
 <img src="https://img.shields.io/badge/Products_Live-3-10B981?style=for-the-badge&labelColor=0F0F1E" alt="Products Live" />
 <img src="https://img.shields.io/badge/In_Build-1-F59E0B?style=for-the-badge&labelColor=0F0F1E" alt="In Build" />
-<img src="https://img.shields.io/badge/Founders-2-7C3AED?style=for-the-badge&labelColor=0F0F1E" alt="Founders" />
+<img src="https://img.shields.io/badge/Founder-1-7C3AED?style=for-the-badge&labelColor=0F0F1E" alt="Founder" />
 <img src="https://img.shields.io/badge/Coffee-∞-6D28D9?style=for-the-badge&labelColor=0F0F1E" alt="Coffee" />
 
 </div>
