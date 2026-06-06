@@ -99,7 +99,7 @@ earn their keep.
   <tr>
     <td colspan="2" valign="top" align="center">
       <a href="https://dialedhq.vercel.app">
-        <img src="https://raw.githubusercontent.com/Advance-Labs/currency-phone-agent/main/public/dialed-icon.svg" width="56" height="56" alt="Dialed" /><br />
+        <img src="https://img.shields.io/badge/-%F0%9F%93%9E-7C3AED?style=flat-square&labelColor=0F0F1E" height="56" alt="Dialed" /><br />
         <h3>📞 Dialed</h3>
       </a>
       <p><strong>Your business phone, answered 24/7.</strong><br/>
