@@ -96,6 +96,18 @@ earn their keep.
       <img src="https://img.shields.io/badge/Status-In%20Development-F59E0B?style=flat-square&labelColor=0F0F1E" alt="In Development" />
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top" align="center">
+      <a href="https://dialedhq.vercel.app">
+        <img src="https://raw.githubusercontent.com/Advance-Labs/currency-phone-agent/main/public/dialed-icon.svg" width="56" height="56" alt="Dialed" /><br />
+        <h3>📞 Dialed</h3>
+      </a>
+      <p><strong>Your business phone, answered 24/7.</strong><br/>
+      Done-for-you AI phone agents for local business — they answer, book, route,
+      and warm-transfer to a human. Call the live agent: +1&nbsp;(519)&nbsp;937-4157.</p>
+      <a href="https://dialedhq.vercel.app"><img src="https://img.shields.io/badge/Live-dialedhq.vercel.app-10B981?style=flat-square&labelColor=0F0F1E" alt="Live" /></a>
+    </td>
+  </tr>
 </table>
 
 <br />
@@ -176,7 +188,7 @@ earn their keep.
 
 ## 📊  In Motion
 
-<img src="https://img.shields.io/badge/Products_Live-2-10B981?style=for-the-badge&labelColor=0F0F1E" alt="Products Live" />
+<img src="https://img.shields.io/badge/Products_Live-3-10B981?style=for-the-badge&labelColor=0F0F1E" alt="Products Live" />
 <img src="https://img.shields.io/badge/In_Build-1-F59E0B?style=for-the-badge&labelColor=0F0F1E" alt="In Build" />
 <img src="https://img.shields.io/badge/Founders-2-7C3AED?style=for-the-badge&labelColor=0F0F1E" alt="Founders" />
 <img src="https://img.shields.io/badge/Coffee-∞-6D28D9?style=for-the-badge&labelColor=0F0F1E" alt="Coffee" />
