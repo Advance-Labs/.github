@@ -75,7 +75,7 @@ Everything else is shipped, working, and deliberately parked while we focus.
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://www.advancelabs.dev/services">
-        <img src="https://raw.githubusercontent.com/Advance-Labs/.github/main/profile/assets/audit-icon.png" width="56" height="56" alt="AI-Visibility Audit" /><br />
+        <img src="https://raw.githubusercontent.com/Advance-Labs/.github/main/profile/assets/audit-icon.png" width="40" height="40" alt="AI-Visibility Audit" /><br />
         <h3>🔍 AI-Visibility (AEO) Audit</h3>
       </a>
       <p><strong>Is ChatGPT recommending you — or your competitor?</strong><br/>
@@ -87,7 +87,7 @@ Everything else is shipped, working, and deliberately parked while we focus.
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://www.advancelabs.dev/services">
-        <img src="https://raw.githubusercontent.com/Advance-Labs/.github/main/profile/assets/build-sprint-icon.png" width="56" height="56" alt="Fixed-Scope Build Sprint" /><br />
+        <img src="https://raw.githubusercontent.com/Advance-Labs/.github/main/profile/assets/build-sprint-icon.png" width="40" height="40" alt="Fixed-Scope Build Sprint" /><br />
         <h3>⚡ Fixed-Scope Build Sprint</h3>
       </a>
       <p><strong>AI integrations, automations, and sites that convert.</strong><br/>
@@ -125,7 +125,7 @@ Everything else is shipped, working, and deliberately parked while we focus.
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://dialedhq.vercel.app">
-        <img src="https://raw.githubusercontent.com/Advance-Labs/.github/main/profile/assets/dialed-icon.png" width="56" height="56" alt="Dialed" /><br />
+        <img src="https://raw.githubusercontent.com/Advance-Labs/.github/main/profile/assets/dialed-icon.png" width="40" height="40" alt="Dialed" /><br />
         <h3>📞 Dialed</h3>
       </a>
       <p><strong>Your business phone, answered 24/7.</strong><br/>
@@ -135,7 +135,7 @@ Everything else is shipped, working, and deliberately parked while we focus.
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/Advance-Labs/aeo-toolkit">
-        <img src="https://raw.githubusercontent.com/Advance-Labs/.github/main/profile/assets/aeo-toolkit-icon.png" width="56" height="56" alt="AEO Toolkit" /><br />
+        <img src="https://raw.githubusercontent.com/Advance-Labs/.github/main/profile/assets/aeo-toolkit-icon.png" width="40" height="40" alt="AEO Toolkit" /><br />
         <h3>🤖 AEO Toolkit</h3>
       </a>
       <p><strong>Get found by AI.</strong><br/>
