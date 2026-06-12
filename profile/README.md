@@ -73,7 +73,7 @@ Everything else is shipped, working, and deliberately parked while we focus.
 
 <table align="center">
   <tr>
-    <td width="50%" valign="top" align="center">
+    <td width="50%" valign="top" align="center"><br />
       <a href="https://www.advancelabs.dev/services">
         <img src="https://raw.githubusercontent.com/Advance-Labs/.github/main/profile/assets/audit-icon.png" width="40" height="40" alt="AI-Visibility Audit" /><br />
         <h3>🔍 AI-Visibility (AEO) Audit</h3>
@@ -85,7 +85,7 @@ Everything else is shipped, working, and deliberately parked while we focus.
       <img src="https://img.shields.io/badge/From-CAD%20%24750-10B981?style=flat-square&labelColor=0F0F1E" alt="From CAD $750" />
       <img src="https://img.shields.io/badge/Turnaround-3%20days-7C3AED?style=flat-square&labelColor=0F0F1E" alt="3-day turnaround" />
     </td>
-    <td width="50%" valign="top" align="center">
+    <td width="50%" valign="top" align="center"><br />
       <a href="https://www.advancelabs.dev/services">
         <img src="https://raw.githubusercontent.com/Advance-Labs/.github/main/profile/assets/build-sprint-icon.png" width="40" height="40" alt="Fixed-Scope Build Sprint" /><br />
         <h3>⚡ Fixed-Scope Build Sprint</h3>
@@ -123,7 +123,7 @@ Everything else is shipped, working, and deliberately parked while we focus.
 
 <table align="center">
   <tr>
-    <td width="50%" valign="top" align="center">
+    <td width="50%" valign="top" align="center"><br />
       <a href="https://dialedhq.vercel.app">
         <img src="https://raw.githubusercontent.com/Advance-Labs/.github/main/profile/assets/dialed-icon.png" width="40" height="40" alt="Dialed" /><br />
         <h3>📞 Dialed</h3>
@@ -133,7 +133,7 @@ Everything else is shipped, working, and deliberately parked while we focus.
       and warm-transfer to a human. Call the live agent: +1&nbsp;(519)&nbsp;937-4157.</p>
       <a href="https://dialedhq.vercel.app"><img src="https://img.shields.io/badge/Live-dialedhq.vercel.app-10B981?style=flat-square&labelColor=0F0F1E" alt="Live" /></a>
     </td>
-    <td width="50%" valign="top" align="center">
+    <td width="50%" valign="top" align="center"><br />
       <a href="https://github.com/Advance-Labs/aeo-toolkit">
         <img src="https://raw.githubusercontent.com/Advance-Labs/.github/main/profile/assets/aeo-toolkit-icon.png" width="40" height="40" alt="AEO Toolkit" /><br />
         <h3>🤖 AEO Toolkit</h3>
@@ -160,7 +160,7 @@ Everything else is shipped, working, and deliberately parked while we focus.
 <br /><br />
 
 <a href="https://www.cartrix.live">
-  <img src="https://img.shields.io/badge/🛒_Cartrix-Checkout_at_scale_·_parallel_multi--account_purchase_automation-6D28D9?style=for-the-badge&labelColor=0F0F1E" alt="Cartrix — parked" />
+  <img src="https://img.shields.io/badge/%F0%9F%9B%92%20Cartrix-Checkout%20at%20scale%20%C2%B7%20multi--account%20purchase%20automation-6D28D9?style=for-the-badge&labelColor=0F0F1E" alt="Cartrix — Checkout at scale, parked" />
 </a>
 
 </div>
