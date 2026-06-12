@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="AI-Visibility Audit">
+  <defs>
+    <linearGradient id="auditTile" x1="8" y1="6" x2="56" y2="58" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6366F1"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="60" height="60" rx="16" fill="url(#auditTile)"/>
+  <!-- magnifying glass: the audit / search -->
+  <circle cx="27" cy="27" r="12" fill="none" stroke="#fff" stroke-width="6"/>
+  <line x1="36.5" y1="36.5" x2="48" y2="48" stroke="#fff" stroke-width="7" stroke-linecap="round"/>
+  <!-- AI spark -->
+  <path d="M50 9 51.2 12.8 55 14 51.2 15.2 50 19 48.8 15.2 45 14 48.8 12.8Z" fill="#22D3EE"/>
+</svg>

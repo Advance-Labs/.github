@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Dialed">
+  <defs>
+    <linearGradient id="dialedTile" x1="8" y1="6" x2="56" y2="58" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6366F1"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="60" height="60" rx="16" fill="url(#dialedTile)"/>
+  <!-- voice waveform: the AI line speaking -->
+  <rect x="12"   y="26" width="4.5" height="12" rx="2.25" fill="#fff"/>
+  <rect x="21"   y="22" width="4.5" height="20" rx="2.25" fill="#fff"/>
+  <rect x="30"   y="17" width="4.5" height="30" rx="2.25" fill="#fff"/>
+  <rect x="39"   y="22" width="4.5" height="20" rx="2.25" fill="#fff"/>
+  <rect x="48"   y="26" width="4.5" height="12" rx="2.25" fill="#fff"/>
+  <!-- live signal spark -->
+  <path d="M49 9 50.2 12.8 54 14 50.2 15.2 49 19 47.8 15.2 44 14 47.8 12.8Z" fill="#22D3EE"/>
+</svg>
