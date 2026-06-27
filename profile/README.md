@@ -1,5 +1,5 @@
 <!--
-  Advance Labs Inc. — GitHub Organization Profile
+  Advance Labs Inc. · GitHub Organization Profile
   Location: this file belongs in the `Advance-Labs/.github` repository at `profile/README.md`.
   Brand: violet #7C3AED on near-black #0F0F1E · mono / technical aesthetic.
 -->
@@ -26,7 +26,7 @@
 <p align="center">
   <a href="https://www.advancelabs.dev">
     <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=720&lines=A+studio+building+ambitious+software.;AI-visibility+audits.+Fixed-scope+builds.+AI+voice+agents.;Two+co-founders.+One+relentless+roadmap." alt="Typing tagline" />
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=720&lines=A+two-brother+software+studio+in+London%2C+Ontario.;We+build+shit+until+it+works.;AI-visibility+audits+and+fixed-scope+builds+for+real+businesses." alt="Typing tagline" />
   </a>
 </p>
 
@@ -46,10 +46,12 @@
 
 ### `// what we do`
 
-**Advance Labs** is a product studio that earns its keep. We ship client work —
-AI-visibility audits and fixed-scope build sprints — and run a tight family of
-software products, from AI voice agents to answer-engine optimization tooling.
-Everything else is shipped, working, and deliberately parked while we focus.
+**Advance Labs** is a Canadian software studio in London, Ontario, run by two
+brothers, Lucas and Matthew Krawczak. We've been building together since we were
+kids. First computer at 12, writing code by 14, and we never really stopped. It's
+still just us. We take on client work (AI-visibility audits and fixed-scope build
+sprints) and run a small family of our own products. Everything else is shipped
+and working, parked while we focus.
 
 </div>
 
@@ -65,7 +67,7 @@ Everything else is shipped, working, and deliberately parked while we focus.
 
 ## 💼  Services
 
-<em>The cash engine. Fixed price, written scope, dated deliverable — no hourly surprises.</em>
+<em>The cash engine. Fixed price, written scope, a dated deliverable. No hourly surprises.</em>
 
 </div>
 
@@ -78,10 +80,10 @@ Everything else is shipped, working, and deliberately parked while we focus.
         <img src="https://raw.githubusercontent.com/Advance-Labs/.github/main/profile/assets/audit-icon.png" width="40" height="40" alt="AI-Visibility Audit" /><br />
         <h3>🔍 AI-Visibility (AEO) Audit</h3>
       </a>
-      <p><strong>Is ChatGPT recommending you — or your competitor?</strong><br/>
-      Full crawl + 51-rule AEO engine, live checks against ChatGPT, AI Overviews
-      &amp; Perplexity, scored PDF report with a prioritized fix list, and a
-      30-minute readout call. 3-day turnaround.</p>
+      <p><strong>Is ChatGPT recommending you, or your competitor?</strong><br/>
+      Full crawl plus our 51-rule AEO engine. We run live checks against ChatGPT,
+      AI Overviews, and Perplexity. You get a scored PDF with a prioritized fix
+      list and a 30-minute readout call. 3-day turnaround.</p>
       <img src="https://img.shields.io/badge/From-CAD%20%24750-10B981?style=flat-square&labelColor=0F0F1E" alt="From CAD $750" />
       <img src="https://img.shields.io/badge/Turnaround-3%20days-7C3AED?style=flat-square&labelColor=0F0F1E" alt="3-day turnaround" />
     </td>
@@ -91,8 +93,8 @@ Everything else is shipped, working, and deliberately parked while we focus.
         <h3>⚡ Fixed-Scope Build Sprint</h3>
       </a>
       <p><strong>AI integrations, automations, and sites that convert.</strong><br/>
-      Chatbots, n8n &amp; custom automations, LLM features, Next.js/React builds,
-      and AEO-ready structure. One quote, one delivery date, 50% deposit.</p>
+      Chatbots, custom n8n automations, LLM features, Next.js and React builds,
+      all structured to be AEO-ready. One quote, one delivery date, 50% deposit.</p>
       <img src="https://img.shields.io/badge/From-CAD%20%241%2C500-10B981?style=flat-square&labelColor=0F0F1E" alt="From CAD $1,500" />
       <img src="https://img.shields.io/badge/Delivery-1–2%20weeks-7C3AED?style=flat-square&labelColor=0F0F1E" alt="1–2 week delivery" />
     </td>
@@ -128,9 +130,10 @@ Everything else is shipped, working, and deliberately parked while we focus.
         <img src="https://raw.githubusercontent.com/Advance-Labs/.github/main/profile/assets/dialed-icon.png" width="40" height="40" alt="Dialed" /><br />
         <h3>📞 Dialed</h3>
       </a>
-      <p><strong>Your business phone, answered 24/7.</strong><br/>
-      Done-for-you AI phone agents for local business — they answer, book, route,
-      and warm-transfer to a human. Call the live agent: +1&nbsp;(519)&nbsp;937-4157.</p>
+      <p><strong>Never miss a call.</strong><br/>
+      Done-for-you AI phone agents for local business. They answer, book, route,
+      and warm-transfer to a human when it matters. Call the live agent:
+      +1&nbsp;(519)&nbsp;937-4157.</p>
       <a href="https://dialedhq.vercel.app"><img src="https://img.shields.io/badge/Live-dialedhq.vercel.app-10B981?style=flat-square&labelColor=0F0F1E" alt="Live" /></a>
     </td>
     <td width="50%" valign="top" align="center"><br />
@@ -139,9 +142,9 @@ Everything else is shipped, working, and deliberately parked while we focus.
         <h3>🤖 AEO Toolkit</h3>
       </a>
       <p><strong>Get found by AI.</strong><br/>
-      Open-source 9-tool suite for AI search optimization (AEO/GEO) — the engine
-      behind our audits. Audits and tunes sites to be cited by ChatGPT,
-      Perplexity &amp; friends.</p>
+      Open-source 9-tool suite for AI search optimization (AEO/GEO). It's the
+      engine behind our audits, and it tunes sites to get cited by ChatGPT,
+      Perplexity, and friends.</p>
       <a href="https://github.com/Advance-Labs/aeo-toolkit"><img src="https://img.shields.io/badge/Open%20Source-aeo--toolkit-7C3AED?style=flat-square&logo=github&logoColor=white&labelColor=0F0F1E" alt="Open Source" /></a>
       <a href="https://aeo-toolkit-ten.vercel.app"><img src="https://img.shields.io/badge/Console-Live-10B981?style=flat-square&labelColor=0F0F1E" alt="Console live" /></a>
     </td>
@@ -155,12 +158,12 @@ Everything else is shipped, working, and deliberately parked while we focus.
 
 ### `// shipped_&_parked`
 
-<em>Built, working, and deliberately on the shelf while the focus pays. Not dead — parked.</em>
+<em>Shipped and working, on the shelf while we focus. Not dead, just parked.</em>
 
 <br /><br />
 
 <a href="https://www.cartrix.live">
-  <img src="https://img.shields.io/badge/%F0%9F%9B%92%20Cartrix-Checkout%20at%20scale%20%C2%B7%20multi--account%20purchase%20automation-6D28D9?style=for-the-badge&labelColor=0F0F1E" alt="Cartrix — Checkout at scale, parked" />
+  <img src="https://img.shields.io/badge/%F0%9F%9B%92%20Cartrix-Checkout%20at%20scale%20%C2%B7%20multi--account%20purchase%20automation-6D28D9?style=for-the-badge&labelColor=0F0F1E" alt="Cartrix. Checkout at scale, parked." />
 </a>
 
 </div>
@@ -177,7 +180,7 @@ Everything else is shipped, working, and deliberately parked while we focus.
 
 ## 👥  The Team
 
-<em>Two co-founders, building in public.</em>
+<em>Two brothers, building in public.</em>
 
 </div>
 
@@ -197,12 +200,12 @@ Everything else is shipped, working, and deliberately parked while we focus.
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/SpookYlonMuh">
-        <img src="https://github.com/SpookYlonMuh.png" width="140" height="140" alt="SpookyPossum" /><br />
-        <h3>SpookyPossum</h3>
+        <img src="https://github.com/SpookYlonMuh.png" width="140" height="140" alt="Matthew Krawczak" /><br />
+        <h3>Matthew Krawczak</h3>
       </a>
       <p><strong>Co-Founder</strong></p>
-      <p><em>Operations · Strategy</em></p>
-      <a href="https://github.com/SpookYlonMuh"><img src="https://img.shields.io/badge/GitHub-SpookYlonMuh-7C3AED?style=flat-square&logo=github&logoColor=white&labelColor=0F0F1E" alt="SpookyPossum on GitHub" /></a>
+      <p><em>Head of Game Development Studio</em></p>
+      <a href="https://github.com/SpookYlonMuh"><img src="https://img.shields.io/badge/GitHub-SpookYlonMuh-7C3AED?style=flat-square&logo=github&logoColor=white&labelColor=0F0F1E" alt="Matthew on GitHub" /></a>
     </td>
   </tr>
 </table>
@@ -261,8 +264,9 @@ Everything else is shipped, working, and deliberately parked while we focus.
 
 ## 💬  Let's Build Something
 
-Need an AI-visibility audit, a build sprint, or overflow engineering capacity?
-One email, a 20-minute call, then a written scope and a fixed price.
+Need an AI-visibility audit, a build sprint, or some overflow engineering help?
+Send one email, hop on a 20-minute call, and we'll come back with a written scope
+and a fixed price. No pressure either way.
 
 <a href="https://www.advancelabs.dev/services"><img src="https://img.shields.io/badge/Hire_us-advancelabs.dev%2Fservices-10B981?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0F0F1E" alt="Hire us" /></a>
 <a href="https://www.advancelabs.dev"><img src="https://img.shields.io/badge/Get_in_touch-advancelabs.dev-7C3AED?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=0F0F1E" alt="Get in touch" /></a>
