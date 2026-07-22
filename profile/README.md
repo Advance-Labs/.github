@@ -19,14 +19,14 @@
 </p>
 
 <p align="center">
-  <strong>We build shit until it works.</strong>
+  <strong>We build until it works.</strong>
 </p>
 
 <!-- ░░░ TYPING TAGLINE ░░░ -->
 <p align="center">
   <a href="https://www.advancelabs.dev">
     <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=720&lines=A+two-brother+software+studio+in+London%2C+Ontario.;We+build+shit+until+it+works.;AI-visibility+audits+and+fixed-scope+builds+for+real+businesses." alt="Typing tagline" />
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=720&lines=A+two-brother+software+studio+in+London%2C+Ontario.;We+build+until+it+works.;AI-visibility+audits+and+fixed-scope+builds+for+real+businesses." alt="Typing tagline" />
   </a>
 </p>
 
