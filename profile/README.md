@@ -126,7 +126,7 @@ and working, parked while we focus.
 <table align="center">
   <tr>
     <td width="50%" valign="top" align="center"><br />
-      <a href="https://dialedhq.vercel.app">
+      <a href="https://dialed.advancelabs.dev">
         <img src="https://raw.githubusercontent.com/Advance-Labs/.github/main/profile/assets/dialed-icon.png" width="40" height="40" alt="Dialed" /><br />
         <h3>📞 Dialed</h3>
       </a>
@@ -134,7 +134,7 @@ and working, parked while we focus.
       Done-for-you AI phone agents for local business. They answer, book, route,
       and warm-transfer to a human when it matters. Call the live agent:
       +1&nbsp;(519)&nbsp;937-4157.</p>
-      <a href="https://dialedhq.vercel.app"><img src="https://img.shields.io/badge/Live-dialedhq.vercel.app-10B981?style=flat-square&labelColor=0F0F1E" alt="Live" /></a>
+      <a href="https://dialed.advancelabs.dev"><img src="https://img.shields.io/badge/Live-dialed.advancelabs.dev-10B981?style=flat-square&labelColor=0F0F1E" alt="Live" /></a>
     </td>
     <td width="50%" valign="top" align="center"><br />
       <a href="https://github.com/Advance-Labs/aeo-toolkit">
@@ -147,6 +147,23 @@ and working, parked while we focus.
       Perplexity, and friends.</p>
       <a href="https://github.com/Advance-Labs/aeo-toolkit"><img src="https://img.shields.io/badge/Open%20Source-aeo--toolkit-7C3AED?style=flat-square&logo=github&logoColor=white&labelColor=0F0F1E" alt="Open Source" /></a>
       <a href="https://aeo-toolkit-ten.vercel.app"><img src="https://img.shields.io/badge/Console-Live-10B981?style=flat-square&labelColor=0F0F1E" alt="Console live" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top" align="center"><br />
+      <a href="https://github.com/Advance-Labs/urban-drone-autonomy">
+        <h3>🛩️ Urban Drone Autonomy</h3>
+      </a>
+      <p><strong>Autonomy that knows what it cannot see.</strong><br/>
+      Sim-first mission autonomy for a multirotor: a behaviour state machine with a
+      safety layer holding veto power, 3D navigation through real cities imported from
+      OpenStreetMap, and camera perception that infers powerline catenaries from pole
+      detections, because a 12&nbsp;mm conductor is physically unresolvable at range.
+      Open source, and verified against a real PX4 flight stack.</p>
+      <a href="https://github.com/Advance-Labs/urban-drone-autonomy"><img src="https://img.shields.io/badge/Open%20Source-urban--drone--autonomy-7C3AED?style=flat-square&logo=github&logoColor=white&labelColor=0F0F1E" alt="Open Source" /></a>
+      <a href="https://drone.advancelabs.dev"><img src="https://img.shields.io/badge/Fly%20it-drone.advancelabs.dev-10B981?style=flat-square&labelColor=0F0F1E" alt="Live demo" /></a>
+      <img src="https://img.shields.io/badge/Tests-275%20passing-6D28D9?style=flat-square&labelColor=0F0F1E" alt="275 tests" />
+      <img src="https://img.shields.io/badge/License-Apache--2.0-6D28D9?style=flat-square&labelColor=0F0F1E" alt="Apache-2.0" />
     </td>
   </tr>
 </table>
@@ -246,7 +263,7 @@ and working, parked while we focus.
 ## 📊  In Motion
 
 <img src="https://img.shields.io/badge/Services_Live-2-10B981?style=for-the-badge&labelColor=0F0F1E" alt="Services Live" />
-<img src="https://img.shields.io/badge/Active_Projects-2-7C3AED?style=for-the-badge&labelColor=0F0F1E" alt="Active Projects" />
+<img src="https://img.shields.io/badge/Active_Projects-3-7C3AED?style=for-the-badge&labelColor=0F0F1E" alt="Active Projects" />
 <img src="https://img.shields.io/badge/Co--Founders-2-6D28D9?style=for-the-badge&labelColor=0F0F1E" alt="Co-Founders" />
 <img src="https://img.shields.io/badge/Coffee-∞-6D28D9?style=for-the-badge&labelColor=0F0F1E" alt="Coffee" />
 
