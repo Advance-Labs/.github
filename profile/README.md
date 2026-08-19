@@ -19,14 +19,14 @@
 </p>
 
 <p align="center">
-  <strong>We build until it works.</strong>
+  <strong>We make complex, real-world systems discoverable and operable by AI.</strong>
 </p>
 
 <!-- ░░░ TYPING TAGLINE ░░░ -->
 <p align="center">
   <a href="https://www.advancelabs.dev">
     <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=720&lines=A+two-brother+software+studio+in+London%2C+Ontario.;We+build+until+it+works.;AI-visibility+audits+and+fixed-scope+builds+for+real+businesses." alt="Typing tagline" />
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=720&lines=Applied+AI+systems+for+discoverability+and+operations.;AI+discoverability%3A+be+the+answer%2C+not+just+a+result.;Autonomous+operations%3A+the+software+layer+around+real-world+systems." alt="Typing tagline" />
   </a>
 </p>
 
@@ -46,12 +46,18 @@
 
 ### `// what we do`
 
-**Advance Labs** is a Canadian software studio in London, Ontario, run by two
-brothers, Lucas and Matthew Krawczak. We've been building together since we were
-kids. First computer at 12, writing code by 14, and we never really stopped. It's
-still just us. We take on client work (AI-visibility audits and fixed-scope build
-sprints) and run a small family of our own products. Everything else is shipped
-and working, parked while we focus.
+**Advance Labs** is an applied AI studio in Ontario, Canada, run by two brothers,
+Lucas and Matthew Krawczak. We've been building together since we were kids. First
+computer at 12, writing code by 14, and we never really stopped. It's still just us.
+
+We work across two practices. **AI discoverability** makes an organization
+understandable, retrievable, and citable by answer engines. **Autonomous operations**
+is the software layer around drone and autonomous systems: operational interfaces,
+mission data, workflow tooling, auditability, and decision support.
+
+We build software, data systems, and research. We do not fly aircraft, hold aviation
+approvals, or manufacture hardware. Client work funds the practice; our own products
+and open research are where we test the ideas first.
 
 </div>
 
@@ -81,7 +87,7 @@ and working, parked while we focus.
         <h3>🔍 AI-Visibility (AEO) Audit</h3>
       </a>
       <p><strong>Is ChatGPT recommending you, or your competitor?</strong><br/>
-      Full crawl plus our 51-rule AEO engine. We run live checks against ChatGPT,
+      Full crawl plus our 54-rule AEO engine. We run live checks against ChatGPT,
       AI Overviews, and Perplexity. You get a scored PDF with a prioritized fix
       list and a 30-minute readout call. 3-day turnaround.</p>
       <img src="https://img.shields.io/badge/From-CAD%20%24750-10B981?style=flat-square&labelColor=0F0F1E" alt="From CAD $750" />
@@ -147,6 +153,19 @@ and working, parked while we focus.
       Perplexity, and friends.</p>
       <a href="https://github.com/Advance-Labs/aeo-toolkit"><img src="https://img.shields.io/badge/Open%20Source-aeo--toolkit-7C3AED?style=flat-square&logo=github&logoColor=white&labelColor=0F0F1E" alt="Open Source" /></a>
       <a href="https://aeo-toolkit-ten.vercel.app"><img src="https://img.shields.io/badge/Console-Live-10B981?style=flat-square&labelColor=0F0F1E" alt="Console live" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top" align="center"><br />
+      <a href="https://converg3nce.com">
+        <h3>◆ Converg3nce</h3>
+      </a>
+      <p><strong>Get chosen by AI.</strong><br/>
+      AI visibility for commerce brands. It reads a brand's web presence the way an AI
+      shopping agent actually does, scores how agent-ready the brand is, and ranks the
+      fixes by impact. Built to be queried by AI clients directly as a remote MCP server.</p>
+      <a href="https://converg3nce.com"><img src="https://img.shields.io/badge/Site%20live-converg3nce.com-10B981?style=flat-square&labelColor=0F0F1E" alt="Site live" /></a>
+      <img src="https://img.shields.io/badge/Engine-in%20build-F59E0B?style=flat-square&labelColor=0F0F1E" alt="Engine in build" />
     </td>
   </tr>
   <tr>
