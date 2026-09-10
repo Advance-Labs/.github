@@ -19,14 +19,14 @@
 </p>
 
 <p align="center">
-  <strong>We make complex, real-world systems discoverable and operable by AI.</strong>
+  <strong>We make organizations discoverable, retrievable, and citable by AI.</strong>
 </p>
 
 <!-- ░░░ TYPING TAGLINE ░░░ -->
 <p align="center">
   <a href="https://www.advancelabs.dev">
     <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=720&lines=Applied+AI+systems+for+discoverability+and+operations.;AI+discoverability%3A+be+the+answer%2C+not+just+a+result.;Autonomous+operations%3A+the+software+layer+around+real-world+systems." alt="Typing tagline" />
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=720&lines=We+make+organizations+citable+by+AI.;Be+the+answer%2C+not+just+a+result.;Open+instruments%2C+not+opinions%3A+54+rules%2C+988+tests." alt="Typing tagline" />
   </a>
 </p>
 
@@ -46,18 +46,24 @@
 
 ### `// what we do`
 
-**Advance Labs** is an applied AI studio in Ontario, Canada, run by two brothers,
-Lucas and Matthew Krawczak. We've been building together since we were kids. First
-computer at 12, writing code by 14, and we never really stopped. It's still just us.
+**Advance Labs** is an applied AI studio in Ontario, Canada, founded and run by Lucas
+Krawczak, with his brother Matthew heading the game development studio. First computer
+at 12, writing code by 14, and we never really stopped. It's still just us.
 
-We work across two practices. **AI discoverability** makes an organization
-understandable, retrievable, and citable by answer engines. **Autonomous operations**
-is the software layer around drone and autonomous systems: operational interfaces,
-mission data, workflow tooling, auditability, and decision support.
+**What we're known for is AI discoverability**: making an organization understandable,
+retrievable, and citable by answer engines. That practice runs on tooling we wrote and
+gave away. The [AEO Toolkit](https://github.com/Advance-Labs/aeo-toolkit) is the engine
+behind every audit we sell, and it is open source, so a client can read the rule that
+scored them instead of taking our word for it.
 
-We build software, data systems, and research. We do not fly aircraft, hold aviation
-approvals, or manufacture hardware. Client work funds the practice; our own products
-and open research are where we test the ideas first.
+Alongside it we build [runs-on.dev](https://runs-on.dev), free subdomains for developers,
+where the public git repository *is* the registry database.
+
+We also do autonomous-systems software: the operational layer around drone and
+autonomous platforms, mission data, workflow tooling, auditability, and decision
+support. We build software, data systems, and research. We do not fly aircraft, hold
+aviation approvals, or manufacture hardware. Client work funds the practice, and our
+own products and open research are where we test the ideas first.
 
 </div>
 
@@ -131,7 +137,43 @@ and open research are where we test the ideas first.
 
 <table align="center">
   <tr>
-    <td width="50%" valign="top" align="center"><br />
+    <td colspan="2" valign="top" align="center"><br />
+      <a href="https://github.com/Advance-Labs/aeo-toolkit">
+        <img src="https://raw.githubusercontent.com/Advance-Labs/.github/main/profile/assets/aeo-toolkit-icon.png" width="40" height="40" alt="AEO Toolkit" /><br />
+        <h3>🤖 AEO Toolkit</h3>
+      </a>
+      <p><strong>Get found by AI. Read the rules that scored you.</strong><br/>
+      The open-source engine behind every audit we sell. A TypeScript monorepo that
+      reads a site the way an assistant does, crawl to parse to score, against 54
+      rules: 29 technical SEO, 11 AEO, and 14 E-E-A-T. Five of the tools run free in
+      the browser with no sign-up, and three MCP servers expose the same instruments
+      to Claude or any MCP client.</p>
+      <a href="https://advancelabs.dev/tools"><img src="https://img.shields.io/badge/Try%20free-advancelabs.dev%2Ftools-10B981?style=flat-square&labelColor=0F0F1E" alt="Free tools" /></a>
+      <a href="https://github.com/Advance-Labs/aeo-toolkit"><img src="https://img.shields.io/badge/Open%20Source-aeo--toolkit-7C3AED?style=flat-square&logo=github&logoColor=white&labelColor=0F0F1E" alt="Open Source" /></a>
+      <img src="https://img.shields.io/badge/Tests-988%20passing-6D28D9?style=flat-square&labelColor=0F0F1E" alt="988 tests" />
+      <img src="https://img.shields.io/badge/Packages-17-6D28D9?style=flat-square&labelColor=0F0F1E" alt="17 packages" />
+      <img src="https://img.shields.io/badge/License-Apache--2.0-6D28D9?style=flat-square&labelColor=0F0F1E" alt="Apache-2.0" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top" align="center"><br />
+      <a href="https://runs-on.dev">
+        <h3>🌐 runs-on.dev</h3>
+      </a>
+      <p><strong>Free subdomains, and the database is a git repo.</strong><br/>
+      Claim <code>yourname.runs-on.dev</code> with a GitHub account and point it at your
+      own hosting with a pull request. Every claim is a commit anyone can read, so the
+      registry is auditable by design, and one wildcard DNS record covers every name.
+      572 names claimed by 572 distinct accounts, because the limit is one each and the
+      registry enforces it. Built and maintained by Lucas, on his own account.</p>
+      <a href="https://runs-on.dev"><img src="https://img.shields.io/badge/Live-runs--on.dev-10B981?style=flat-square&labelColor=0F0F1E" alt="Live" /></a>
+      <a href="https://github.com/zordhalo/runs-on.dev"><img src="https://img.shields.io/badge/Open%20Source-runs--on.dev-7C3AED?style=flat-square&logo=github&logoColor=white&labelColor=0F0F1E" alt="Open Source" /></a>
+      <img src="https://img.shields.io/badge/Tests-313%20passing-6D28D9?style=flat-square&labelColor=0F0F1E" alt="313 tests" />
+      <img src="https://img.shields.io/badge/License-AGPL--3.0-6D28D9?style=flat-square&labelColor=0F0F1E" alt="AGPL-3.0" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top" align="center"><br />
       <a href="https://dialed.advancelabs.dev">
         <img src="https://raw.githubusercontent.com/Advance-Labs/.github/main/profile/assets/dialed-icon.png" width="40" height="40" alt="Dialed" /><br />
         <h3>📞 Dialed</h3>
@@ -141,18 +183,6 @@ and open research are where we test the ideas first.
       and warm-transfer to a human when it matters. Call the live agent:
       +1&nbsp;(519)&nbsp;937-4157.</p>
       <a href="https://dialed.advancelabs.dev"><img src="https://img.shields.io/badge/Live-dialed.advancelabs.dev-10B981?style=flat-square&labelColor=0F0F1E" alt="Live" /></a>
-    </td>
-    <td width="50%" valign="top" align="center"><br />
-      <a href="https://github.com/Advance-Labs/aeo-toolkit">
-        <img src="https://raw.githubusercontent.com/Advance-Labs/.github/main/profile/assets/aeo-toolkit-icon.png" width="40" height="40" alt="AEO Toolkit" /><br />
-        <h3>🤖 AEO Toolkit</h3>
-      </a>
-      <p><strong>Get found by AI.</strong><br/>
-      Open-source 9-tool suite for AI search optimization (AEO/GEO). It's the
-      engine behind our audits, and it tunes sites to get cited by ChatGPT,
-      Perplexity, and friends.</p>
-      <a href="https://github.com/Advance-Labs/aeo-toolkit"><img src="https://img.shields.io/badge/Open%20Source-aeo--toolkit-7C3AED?style=flat-square&logo=github&logoColor=white&labelColor=0F0F1E" alt="Open Source" /></a>
-      <a href="https://aeo-toolkit-ten.vercel.app"><img src="https://img.shields.io/badge/Console-Live-10B981?style=flat-square&labelColor=0F0F1E" alt="Console live" /></a>
     </td>
   </tr>
   <tr>
@@ -192,6 +222,23 @@ and open research are where we test the ideas first.
 <!-- ░░░ SHIPPED & PARKED ░░░ -->
 <div align="center">
 
+### `// also_in_the_lab`
+
+<em>Real, public, and honest about where it stands. Not what we lead with.</em>
+
+<br /><br />
+
+<a href="https://github.com/Advance-Labs/quantum-hybrid-research">
+  <img src="https://img.shields.io/badge/%E2%9A%9B%20Quantum%20Hybrid%20Research-Three%20feasibility%20studies%20%C2%B7%20228--test%20emulator%20%C2%B7%20MIT-6D28D9?style=for-the-badge&labelColor=0F0F1E" alt="Quantum Hybrid Research" />
+</a>
+
+<p>Feasibility studies on quantum and classical hybrids, including whether quantum can
+accelerate LLM training. Every claim carries an evidence-class tag, so a proven result
+and a speculative one never read the same. Written up at
+<a href="https://quantum.advancelabs.dev">quantum.advancelabs.dev</a>.</p>
+
+<br />
+
 ### `// shipped_&_parked`
 
 <em>Shipped and working, on the shelf while we focus. Not dead, just parked.</em>
@@ -229,7 +276,7 @@ and open research are where we test the ideas first.
         <img src="https://github.com/zordhalo.png" width="140" height="140" alt="Lucas Krawczak" /><br />
         <h3>Lucas Krawczak</h3>
       </a>
-      <p><strong>Co-Founder</strong></p>
+      <p><strong>Founder</strong></p>
       <p><em>Engineering · Design · Automation</em></p>
       <a href="https://github.com/zordhalo"><img src="https://img.shields.io/badge/GitHub-zordhalo-7C3AED?style=flat-square&logo=github&logoColor=white&labelColor=0F0F1E" alt="Lucas on GitHub" /></a>
       <a href="mailto:lucas@advancelabs.dev"><img src="https://img.shields.io/badge/Email-lucas@advancelabs.dev-6D28D9?style=flat-square&logo=maildotru&logoColor=white&labelColor=0F0F1E" alt="Email Lucas" /></a>
@@ -239,8 +286,8 @@ and open research are where we test the ideas first.
         <img src="https://github.com/SpookYlonMuh.png" width="140" height="140" alt="Matthew Krawczak" /><br />
         <h3>Matthew Krawczak</h3>
       </a>
-      <p><strong>Co-Founder</strong></p>
-      <p><em>Head of Game Development Studio</em></p>
+      <p><strong>Head of Game Development</strong></p>
+      <p><em>Games studio · Advance Labs</em></p>
       <a href="https://github.com/SpookYlonMuh"><img src="https://img.shields.io/badge/GitHub-SpookYlonMuh-7C3AED?style=flat-square&logo=github&logoColor=white&labelColor=0F0F1E" alt="Matthew on GitHub" /></a>
     </td>
   </tr>
@@ -282,8 +329,8 @@ and open research are where we test the ideas first.
 ## 📊  In Motion
 
 <img src="https://img.shields.io/badge/Services_Live-2-10B981?style=for-the-badge&labelColor=0F0F1E" alt="Services Live" />
-<img src="https://img.shields.io/badge/Active_Projects-3-7C3AED?style=for-the-badge&labelColor=0F0F1E" alt="Active Projects" />
-<img src="https://img.shields.io/badge/Co--Founders-2-6D28D9?style=for-the-badge&labelColor=0F0F1E" alt="Co-Founders" />
+<img src="https://img.shields.io/badge/Scoring_rules-54-7C3AED?style=for-the-badge&labelColor=0F0F1E" alt="54 scoring rules" />
+<img src="https://img.shields.io/badge/Tests_green-1%2C804-6D28D9?style=for-the-badge&labelColor=0F0F1E" alt="1,804 tests passing across the four open-source repos linked on this page: AEO Toolkit 988, runs-on.dev 313, urban-drone-autonomy 275, quantum-hybrid-research 228" />
 <img src="https://img.shields.io/badge/Coffee-∞-6D28D9?style=for-the-badge&labelColor=0F0F1E" alt="Coffee" />
 
 </div>
