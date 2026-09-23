@@ -35,7 +35,7 @@ run on the same open-source engine, so a client can read the rule that scored th
 
 ## Research
 
-- [urban-drone-autonomy](https://github.com/Advance-Labs/urban-drone-autonomy): sim-first mission autonomy for a multirotor, verified against PX4 SITL. Apache-2.0.
+- [urban-drone-autonomy](https://github.com/Advance-Labs/urban-drone-autonomy): sim-first mission autonomy for a multirotor: 275 tests, and a first PX4 SITL flight (takeoff, hold, return, land) that proves the backend seam. Apache-2.0.
 - [quantum-hybrid-research](https://github.com/Advance-Labs/quantum-hybrid-research): feasibility studies where quantum meets classical computing. MIT.
 
 ## Who
