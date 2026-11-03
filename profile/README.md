@@ -15,6 +15,7 @@
 <p align="center">
   <a href="https://advancelabs.dev"><img src="https://img.shields.io/badge/advancelabs.dev-A8F326?style=flat-square&labelColor=0A0A0B" alt="advancelabs.dev" /></a>
   <a href="https://advancelabs.dev/lab"><img src="https://img.shields.io/badge/the_lab-0A0A0B?style=flat-square&labelColor=0A0A0B" alt="The lab: everything we ship" /></a>
+  <a href="https://whobuildsagents.com/advancelabs.dev"><img src="https://whobuildsagents.com/badge/advancelabs.dev.svg" alt="MCP servers live" /></a>
 </p>
 
 An independent lab in London, Ontario. We build open-source software for the agent era, and
